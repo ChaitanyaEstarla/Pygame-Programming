@@ -1,6 +1,8 @@
 #Python Ver : 2.7.14
 #Pygame Ver : 1.9.3
 
+#I just edited this
+
 import pygame
 import random
 #from pygame.locals import *
