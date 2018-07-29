@@ -40,9 +40,9 @@ end_page = pygame.font.SysFont("aerial",175)
 timer = 600
 
 #Lists
-numbers = [[8,'','',''],
-           [4,'','',''],
-           [4,'','',''],
+numbers = [['','','',''],
+           ['','','',''],
+           ['','','',''],
            ['','','','']]
 
 keep_tab = [[False,False,False,True],
